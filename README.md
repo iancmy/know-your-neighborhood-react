@@ -21,7 +21,7 @@ The web application for the "Know Your Neighborhood" platform. It provides an in
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository:**
-   `git clone <repo-url>`
+   `git clone https://github.com/iancmy/know-your-neighborhood-react`
 2. **Install Dependencies:**
    * `npm install`
 3. **Configuration:**
